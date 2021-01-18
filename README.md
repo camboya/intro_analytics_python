@@ -13,5 +13,5 @@ __Instructivo de instalación de herramientas__\
 requerimientos.txt
 
 # Consultas
-alumnos@inove.com.ar
+alumnos@inove.com.arr
 
